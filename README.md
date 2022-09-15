@@ -1,2 +1,2 @@
 # kelas.industri
-kumpulan kelas industri (guru tamu)
+kumpulan kelas industri ( guru tamu)
